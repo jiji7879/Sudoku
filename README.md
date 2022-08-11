@@ -15,7 +15,7 @@ The following libraries are used in this Python folder:
 - sys
 - re
 - copy
-- tabulate (to install, use the command line in requirements.py)
+- tabulate (to install, use the command line "pip install -r requirements.txt")
 
 Make sure you have a sudoku to input.
 You can either put it in a .txt/.csv file, or input it manually.
